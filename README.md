@@ -12,7 +12,7 @@ Basic starter package for backend API development.
 In your project directory:
 ```bash
 git remote add starter https://github.com/JY2452/starterpack-be.git
-git pull starter master --allow-unrelated-histories
+git pull starter main --allow-unrelated-histories
 ```
 
 
